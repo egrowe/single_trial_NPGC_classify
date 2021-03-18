@@ -10,7 +10,7 @@ The scripts are organised to the user can perform:
 
 (i) Additional scripts are included to run various simulations of single-trial nonparametric spectral Granger causality
 
-These scripts require the following add-on packacges to run:
+These scripts require the following add-on packages to run:
 * SPM12: https://www.fil.ion.ucl.ac.uk/spm/software/download/
 * Chronux: http://chronux.org/
 * Raincloud Plot: https://github.com/RainCloudPlots/RainCloudPlots
