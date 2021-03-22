@@ -22,7 +22,6 @@ addpath(genpath('/Users/egrow1/Desktop/NEW_Redo_OriginalChans_SHAFTO/decode_libS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% INPUT: Settings and filenames for extracting ROI data
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%filepath = ['/Users/egrow1/Desktop/ALL_SW_8196_0_to_600ms_EBRem/']; %set file path
 filepathList = ['/Users/egrow1/Desktop/NEW_Redo_OriginalChans_SHAFTO/SourceResults_MASSIVE/'];
 filePathCoords = ['/Users/egrow1/Desktop/Shafto_GitHub_Scripts/2_NonPara_Granger/'];
 countA = 1; countB = 1; countC = 1;
